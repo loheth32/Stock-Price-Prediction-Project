@@ -17,7 +17,6 @@ This project leverages Machine Learning (Random Forest Regressor) to predict the
 The model achieved an accuracy of **~99%** on the test dataset. It successfully learned the intraday volatility patterns to predict the closing price.
 
 ![Stock Prediction Graph](reliance_result.png)
-*(Note: Upload your graph image to the repo so it appears here)*
 
 ### 🔮 Future Scope
 * Integration with real-time NSE APIs.
